@@ -1,0 +1,16 @@
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ryanjms07/kernel.git
+git push -u origin master
+
+
+fanani@fanani-laptop:~$ sudo apt-get install git-core git-gui git-doc gitg
+
+cara upload di github:
+
+git add
+git init
+git remote add origin
+git push -u origin master
