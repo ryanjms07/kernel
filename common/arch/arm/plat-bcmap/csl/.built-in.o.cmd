@@ -1,0 +1,1 @@
+cmd_arch/arm/plat-bcmap/csl/built-in.o :=  /home/ryanjms07/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o arch/arm/plat-bcmap/csl/built-in.o arch/arm/plat-bcmap/csl/csl_dma.o arch/arm/plat-bcmap/csl/csl_lcdc.o arch/arm/plat-bcmap/csl/csl_cam.o arch/arm/plat-bcmap/csl/csl_sysmap.o 
